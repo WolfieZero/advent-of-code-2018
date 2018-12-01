@@ -1,0 +1,13 @@
+{
+  "name": "advent-of-code-2018",
+  "description": "Advent of Code 2018",
+  "private": true,
+  "author": {
+    "name": "Neil Sweeney"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wolfiezero/advent-of-code-2018"
+  },
+  "license": "MIT"
+}
