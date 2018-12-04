@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo "What Day?"
+read day
+
+mkdir day-$day
+cd day-$day
+touch part-1.js
+touch part-2.js
+touch input-1.txt
+
+echo "Day $day folder and files created!"
